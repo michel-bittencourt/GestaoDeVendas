@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using GestaoDeVendas.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<GestaoDeVendasContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("GestaoDeVendasContext") ?? throw new InvalidOperationException("Connection string 'GestaoDeVendasContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

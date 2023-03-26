@@ -1,4 +1,4 @@
-﻿using GestaoDeVendas.Models;
+﻿using GestaoDeVendas.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
