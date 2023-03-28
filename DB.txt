@@ -1,2 +1,2 @@
-Nome: GESTAODEVENDASDB
+Nome: GestaoDeVendas
 Senha: VhT64@KK
