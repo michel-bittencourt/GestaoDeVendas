@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GestaoDeVendas.Migrations
 {
     [DbContext(typeof(GestaoDeVendasContext))]
-    [Migration("20230328235221_OtherEntities")]
-    partial class OtherEntities
+    [Migration("20230331215318_Init")]
+    partial class Init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

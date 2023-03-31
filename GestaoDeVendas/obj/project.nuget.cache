@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bkYzLjuspb74lZMgWqeQ9BZHPXIkm76IP36AhcuqfLD0OrLGtfvLyQL1lSBRk+cFPXIHEbCNOv8xeUWhxCa9zg==",
+  "dgSpecHash": "P2Ae3b2VFv5WQ31/T6vAvoiJ8GNu7nPqJGrgIrNLOS84oMcLVqVDPzlkCXNz2mpu5tbQG7X83VUL6JUbtVCVuA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Michel_Bittencourt\\Desktop\\Aulas\\PROJETOS\\GestaoDeVendas\\GestaoDeVendas\\GestaoDeVendas.csproj",
   "expectedPackageFiles": [
@@ -175,11 +175,7 @@
     "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+    "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
