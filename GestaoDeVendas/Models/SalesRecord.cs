@@ -13,9 +13,8 @@ public class SalesRecord
     //Constructs
     public SalesRecord() { }
 
-    public SalesRecord(int id, DateTime date, double amount, SaleStatus status, Seller saller)
+    public SalesRecord(DateTime date, double amount, SaleStatus status, Seller saller)
     {
-        Id = id;
         Date = date;
         Amount = amount;
         Status = status;

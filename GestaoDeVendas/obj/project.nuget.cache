@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NMMH/ICYZ/UeDtP2/TLl6AUegQxzwXrtKL6GVKOtq6mbAHzV/LEHgW13N2m6O7iSJHE3jylPRTQ56WiFEa3PsA==",
+  "dgSpecHash": "bkYzLjuspb74lZMgWqeQ9BZHPXIkm76IP36AhcuqfLD0OrLGtfvLyQL1lSBRk+cFPXIHEbCNOv8xeUWhxCa9zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michel_Bittencourt\\Desktop\\Aulas\\PROJETOS\\GestaoDeVendas\\GestaoDeVendas\\GestaoDeVendas\\GestaoDeVendas.csproj",
+  "projectFilePath": "C:\\Users\\Michel_Bittencourt\\Desktop\\Aulas\\PROJETOS\\GestaoDeVendas\\GestaoDeVendas\\GestaoDeVendas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Michel_Bittencourt\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

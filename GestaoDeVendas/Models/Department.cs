@@ -6,16 +6,15 @@ public class Department
     public string Name { get; set; }
     public ICollection<Seller> Sellers { get; set; } = new List<Seller>();
 
-    //Constructor
+    //Construct
     public Department() { }
 
-    public Department(int id, string name)
+    public Department(string name)
     {
-        Id = id;
         Name = name;
     }
 
-    //Funtions
+    //Function
     public void AddSeller(Seller seller)
     {
         Sellers.Add(seller);

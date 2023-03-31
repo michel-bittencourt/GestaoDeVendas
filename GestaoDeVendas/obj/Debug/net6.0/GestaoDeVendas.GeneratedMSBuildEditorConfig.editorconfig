@@ -9,57 +9,81 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GestaoDeVendas
 build_property.RootNamespace = GestaoDeVendas
-build_property.ProjectDir = C:\Users\Michel_Bittencourt\Desktop\Aulas\PROJETOS\GestaoDeVendas\GestaoDeVendas\GestaoDeVendas\
+build_property.ProjectDir = C:\Users\Michel_Bittencourt\Desktop\Aulas\PROJETOS\GestaoDeVendas\GestaoDeVendas\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Michel_Bittencourt\Desktop\Aulas\PROJETOS\GestaoDeVendas\GestaoDeVendas\GestaoDeVendas
+build_property.MSBuildProjectDirectory = C:\Users\Michel_Bittencourt\Desktop\Aulas\PROJETOS\GestaoDeVendas\GestaoDeVendas
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/Departments/Create.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Departments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/Departments/Delete.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Departments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/Departments/Details.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Departments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/Departments/Edit.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Departments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/Departments/Index.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/Home/Index.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/Home/Privacy.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/Shared/Error.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/SalesRecords/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZWNvcmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/SalesRecords/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZWNvcmRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/SalesRecords/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZWNvcmRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/SalesRecords/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZWNvcmRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/SalesRecords/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNSZWNvcmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Sellers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/_ViewImports.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/_ViewStart.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/GestaoDeVendas/Views/Shared/_Layout.cshtml]
+[C:/Users/Michel_Bittencourt/Desktop/Aulas/PROJETOS/GestaoDeVendas/GestaoDeVendas/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cumtxdfxcz

@@ -7,11 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <EditorConfigFiles Remove="C:\Users\Michel_Bittencourt\Desktop\Aulas\PROJETOS\GestaoDeVendas\GestaoDeVendas\GestaoDeVendas\Models\.editorconfig" />
+    <Compile Remove="GestaoDeVendas\**" />
+    <Content Remove="GestaoDeVendas\**" />
+    <EmbeddedResource Remove="GestaoDeVendas\**" />
+    <None Remove="GestaoDeVendas\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="C:\Users\Michel_Bittencourt\Desktop\Aulas\PROJETOS\GestaoDeVendas\GestaoDeVendas\GestaoDeVendas\.editorconfig" />
+    <EditorConfigFiles Remove="C:\Users\Michel_Bittencourt\Desktop\Aulas\PROJETOS\GestaoDeVendas\GestaoDeVendas\GestaoDeVendas\Models\.editorconfig" />
   </ItemGroup>
 
   <ItemGroup>
